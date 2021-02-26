@@ -1,0 +1,22 @@
+{
+  "name": "analisisalgortimico",
+  "version": "1.0.0",
+  "description": "Curso de Analisis y Diseño de Algoritmos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JpRoGarcia/AnalisisAlgoritmico-.git"
+  },
+  "author": "JPRoGarcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JpRoGarcia/AnalisisAlgoritmico-/issues"
+  },
+  "homepage": "https://github.com/JpRoGarcia/AnalisisAlgoritmico-#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
