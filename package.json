@@ -2,8 +2,9 @@
   "name": "analisisalgortimico",
   "version": "1.0.0",
   "description": "Curso de Analisis y Diseño de Algoritmos",
-  "main": "index.js",
+  "main": "ApiEjercicios/index.js",
   "scripts": {
+    "dev": "nodemon ApiEjercicios/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,9 @@
   },
   "homepage": "https://github.com/JpRoGarcia/AnalisisAlgoritmico-#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.5.1",
     "yargs": "^16.2.0"
   }
 }
